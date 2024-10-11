@@ -1,0 +1,1 @@
+let av a = if a < 0 then a + (a + a) else a;;
